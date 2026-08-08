@@ -29,7 +29,7 @@ const squareData = [
   { id: 9, category: "Grades", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060480/WhatsApp_Image_2026-08-06_at_20.47.59_2_jtjnb1.jpg" },
 
   // Cabines sanitárias (químico e luxo) — presentes, mas sem dominar a proporção
-  { id: 10, category: "Cabine de luxo", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152498/IMG_2393_ahhvpe.heic" },
+  { id: 10, category: "Cabine de luxo", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152782/WhatsApp_Image_2026-08-07_at_11.56.49_1_yu52c1.jpg" },
   { id: 11, category: "Cabine química", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060496/WhatsApp_Image_2026-08-06_at_20.48.04_2_l0k8vh.jpg" },
 
   // Demais estruturas / mobiliário do portfólio original
@@ -41,7 +41,7 @@ const squareData = [
   { id: 17, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060492/WhatsApp_Image_2026-08-06_at_20.48.03_2_uyfgmi.jpg" },
   { id: 18, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060490/WhatsApp_Image_2026-08-06_at_20.48.02_3_yise7z.jpg" },
   { id: 19, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152489/WhatsApp_Image_2026-08-07_at_11.58.30_mplq5l.jpg" },
-  { id: 20, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152496/IMG_2389_nayckx.heic" },
+  { id: 20, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152781/WhatsApp_Image_2026-08-07_at_11.56.49_onix67.jpg" },
 ];
 
 const shuffle = <T,>(array: T[]): T[] => {
