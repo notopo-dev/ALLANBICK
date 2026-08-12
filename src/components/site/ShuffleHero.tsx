@@ -13,33 +13,21 @@ const squareData = [
   { id: 1, category: "Sonorização", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060519/WhatsApp_Image_2026-08-06_at_20.47.53_2_qpgbkx.jpg" },
   { id: 2, category: "Sonorização", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060524/WhatsApp_Image_2026-08-06_at_20.47.54_2_tujeim.jpg" },
   { id: 3, category: "Telão", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060514/WhatsApp_Image_2026-08-06_at_20.47.51_3_aelois.jpg" },
-
-  // Estrutura Q30 / palco
   { id: 4, category: "Estrutura Q30", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060501/WhatsApp_Image_2026-08-06_at_20.47.47_qczrwu.jpg" },
   { id: 5, category: "Estrutura Q30", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060510/WhatsApp_Image_2026-08-06_at_20.47.50_2_a7qmmh.jpg" },
-
-  // Tenda
   { id: 6, category: "Tenda", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060479/WhatsApp_Image_2026-08-06_at_20.47.59_3_znynpn.jpg" },
-
-  // Mobiliário para eventos / corporativo / buffet
-  { id: 7, category: "Mobiliário", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060483/WhatsApp_Image_2026-08-06_at_20.48.00_4_kbregg.jpg" },
-  { id: 8, category: "Mobiliário corporativo", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060480/WhatsApp_Image_2026-08-06_at_20.48.00_1_qaeow7.jpg" },
-
-  // Grades / disciplinadores
+  { id: 7, category: "Mobiliário", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060534/WhatsApp_Image_2026-08-06_at_20.47.58_gnkpun.jpg" },
+  { id: 8, category: "Mobiliário corporativo", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060531/WhatsApp_Image_2026-08-06_at_20.47.57_2_zuiefy.jpg" },
   { id: 9, category: "Grades", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060480/WhatsApp_Image_2026-08-06_at_20.47.59_2_jtjnb1.jpg" },
-
-  // Cabines sanitárias (químico e luxo) — presentes, mas sem dominar a proporção
   { id: 10, category: "Cabine de luxo", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152782/WhatsApp_Image_2026-08-07_at_11.56.49_1_yu52c1.jpg" },
   { id: 11, category: "Cabine química", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060496/WhatsApp_Image_2026-08-06_at_20.48.04_2_l0k8vh.jpg" },
-
-  // Demais estruturas / mobiliário do portfólio original
   { id: 12, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574413/WhatsApp_Image_2026-08-11_at_15.05.41_1_xtwzcl.jpg" },
   { id: 13, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060503/WhatsApp_Image_2026-08-06_at_20.47.48_2_otgv5q.jpg" },
   { id: 14, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060500/WhatsApp_Image_2026-08-06_at_20.47.47_3_ezawj3.jpg" },
   { id: 15, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_xknbwb.jpg" },
   { id: 16, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_3_oi6ybh.jpg" },
   { id: 17, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060492/WhatsApp_Image_2026-08-06_at_20.48.03_2_uyfgmi.jpg" },
-  { id: 18, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574408/WhatsApp_Image_2026-08-11_at_15.05.39_1_tzy4nu.jpg" },
+  { id: 18, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_2_ns6bwg.jpg" },
   { id: 19, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152489/WhatsApp_Image_2026-08-07_at_11.58.30_mplq5l.jpg" },
   { id: 20, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152781/WhatsApp_Image_2026-08-07_at_11.56.49_onix67.jpg" },
 ];
