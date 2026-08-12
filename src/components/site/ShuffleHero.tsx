@@ -33,13 +33,13 @@ const squareData = [
   { id: 11, category: "Cabine química", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060496/WhatsApp_Image_2026-08-06_at_20.48.04_2_l0k8vh.jpg" },
 
   // Demais estruturas / mobiliário do portfólio original
-  { id: 12, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152487/WhatsApp_Image_2026-08-07_at_11.59.31_rf83fr.jpg" },
+  { id: 12, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574413/WhatsApp_Image_2026-08-11_at_15.05.41_1_xtwzcl.jpg" },
   { id: 13, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060503/WhatsApp_Image_2026-08-06_at_20.47.48_2_otgv5q.jpg" },
   { id: 14, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060500/WhatsApp_Image_2026-08-06_at_20.47.47_3_ezawj3.jpg" },
-  { id: 15, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060499/WhatsApp_Image_2026-08-06_at_20.47.47_2_llkgwp.jpg" },
-  { id: 16, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060499/WhatsApp_Image_2026-08-06_at_20.47.47_1_y8fawt.jpg" },
+  { id: 15, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_xknbwb.jpg" },
+  { id: 16, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_3_oi6ybh.jpg" },
   { id: 17, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060492/WhatsApp_Image_2026-08-06_at_20.48.03_2_uyfgmi.jpg" },
-  { id: 18, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060490/WhatsApp_Image_2026-08-06_at_20.48.02_3_yise7z.jpg" },
+  { id: 18, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574408/WhatsApp_Image_2026-08-11_at_15.05.39_1_tzy4nu.jpg" },
   { id: 19, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152489/WhatsApp_Image_2026-08-07_at_11.58.30_mplq5l.jpg" },
   { id: 20, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152781/WhatsApp_Image_2026-08-07_at_11.56.49_onix67.jpg" },
 ];

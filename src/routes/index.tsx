@@ -33,7 +33,7 @@ const services = [
     title: "Painel de LED",
     desc: "Telões de LED de alta resolução para palcos, shows, congressos e ativações. Impacto visual e imagem cristalina em qualquer distância.",
     items: ["Alta resolução P3/P4", "Modular indoor/outdoor", "Operação técnica inclusa", "Ideal para palcos e ativações"],
-    img: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152782/WhatsApp_Image_2026-08-07_at_11.56.49_1_yu52c1.jpg",
+    img: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152782/WhatsApp_Image_2026-08-07_at_11.56.49_1_yu52c1.jpg ",
   },
   {
     title: "Estrutura Q30",
