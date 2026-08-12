@@ -29,7 +29,7 @@ const squareData = [
   { id: 17, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060492/WhatsApp_Image_2026-08-06_at_20.48.03_2_uyfgmi.jpg" },
   { id: 18, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_2_ns6bwg.jpg" },
   { id: 19, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152489/WhatsApp_Image_2026-08-07_at_11.58.30_mplq5l.jpg" },
- 
+  { id: 20, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152781/WhatsApp_Image_2026-08-07_at_11.56.49_onix67.jpg" },
 ];
 
 const shuffle = <T,>(array: T[]): T[] => {
