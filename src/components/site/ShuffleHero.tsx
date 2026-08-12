@@ -20,16 +20,12 @@ const squareData = [
   { id: 8, category: "Mobiliário corporativo", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060531/WhatsApp_Image_2026-08-06_at_20.47.57_2_zuiefy.jpg" },
   { id: 9, category: "Grades", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060480/WhatsApp_Image_2026-08-06_at_20.47.59_2_jtjnb1.jpg" },
   { id: 10, category: "Cabine de luxo", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152782/WhatsApp_Image_2026-08-07_at_11.56.49_1_yu52c1.jpg" },
-  { id: 11, category: "Cabine química", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060496/WhatsApp_Image_2026-08-06_at_20.48.04_2_l0k8vh.jpg" },
-  { id: 12, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574413/WhatsApp_Image_2026-08-11_at_15.05.41_1_xtwzcl.jpg" },
-  { id: 13, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060503/WhatsApp_Image_2026-08-06_at_20.47.48_2_otgv5q.jpg" },
-  { id: 14, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060500/WhatsApp_Image_2026-08-06_at_20.47.47_3_ezawj3.jpg" },
-  { id: 15, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_xknbwb.jpg" },
-  { id: 16, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_3_oi6ybh.jpg" },
-  { id: 17, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060492/WhatsApp_Image_2026-08-06_at_20.48.03_2_uyfgmi.jpg" },
-  { id: 18, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_2_ns6bwg.jpg" },
-  { id: 19, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152489/WhatsApp_Image_2026-08-07_at_11.58.30_mplq5l.jpg" },
-  { id: 20, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152781/WhatsApp_Image_2026-08-07_at_11.56.49_onix67.jpg" },
+  { id: 11, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574413/WhatsApp_Image_2026-08-11_at_15.05.41_1_xtwzcl.jpg" },
+  { id: 12, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_xknbwb.jpg" },
+  { id: 13, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786574411/WhatsApp_Image_2026-08-11_at_15.05.40_3_oi6ybh.jpg" },
+  { id: 14, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786060492/WhatsApp_Image_2026-08-06_at_20.48.03_2_uyfgmi.jpg" },
+  { id: 15, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152489/WhatsApp_Image_2026-08-07_at_11.58.30_mplq5l.jpg" },
+  { id: 16, category: "Estrutura", src: "https://res.cloudinary.com/duxxfpukn/image/upload/v1786152781/WhatsApp_Image_2026-08-07_at_11.56.49_onix67.jpg" },
 ];
 
 const shuffle = <T,>(array: T[]): T[] => {
